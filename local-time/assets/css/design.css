@@ -72,7 +72,7 @@ body{
     transform-origin: 50% 125px;
   }
   
-  span {
+  .timer-countdown span {
     display: inline-block;
     position: absolute;
     color: #333;
