@@ -160,3 +160,12 @@ body{
     color: white;
     padding: 20px;
 }
+.popular-country-time ul li {
+  transition: 200ms all ;
+}
+.popular-country-time ul :first-child {
+  margin-left: 0;
+}
+.popular-country-time ul :last-child {
+  margin-right: 0;
+}
